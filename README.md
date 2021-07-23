@@ -143,7 +143,7 @@ Telegram bot 有两个配置项，一个是`chatID`（对应`.env`文件中的`T
 *与通知相关的设置到此就完成了，下面可以愉快的配置本程序了* :)
 
 ### 🚧  配置脚本
-所有操作均在Centos7系统下进行，其它Linux发行版大同小异
+ 所有操作均在Centos7系统下进行，其它Linux发行版大同小异
 #### 获取源码
 ```bash
 $ mkdir -p /data/wwwroot/freenom
